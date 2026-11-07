@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Company Name</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #0f172a;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+section {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.button {
+    display: inline-block;
+    background: #2563eb;
+    color: white;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 6px;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background: #0f172a;
+    color: white;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Your Company Name</h1>
+    <p>Custom Software & Technology Solutions</p>
+</header>
+
+<section>
+    <div class="card">
+        <h2>About Us</h2>
+        <p>
+            We build software solutions that help businesses save time,
+            improve workflows, and grow efficiently.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Services</h2>
+        <ul>
+            <li>Custom Software Development</li>
+            <li>Automation Solutions</li>
+            <li>Web Applications</li>
+            <li>Technical Consulting</li>
+        </ul>
+    </div>
+
+    <a class="button" href="mailto:youremail@example.com">
+        Contact Us
+    </a>
+</section>
+
+<footer>
+    © 2026 Your Company Name
+</footer>
+
+</body>
+</html>
